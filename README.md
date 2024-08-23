@@ -1,3 +1,3 @@
-# arquitetura-de-computadores-II
+# trabalho-interdiciplinar-II
 
-Arquivos da matéria de Trabalho Interdiciplinar 2.
+Arquivos da matéria Trabalho Interdiciplinar 2.
